@@ -1,0 +1,8 @@
+Distance(km),Beijing (China),Shanghai (China),Chengdu (China),Singapore,Sydney (Australia),Silicon Valley (America),London (United Kingdom)
+Beijing (China),0,1070.2,1521.5,4470.7,8948.3,11143.98,8137.3
+Shanghai (China),1070.2,0,1659.7,3802.6,7877.6,9887.8,9187.1
+Chengdu (China),1521.5,1659.7,0,3249,8704,11029,8284.9
+Singapore,4470.7,3802.6,3249,0,6299,13581.7,10849.5
+Sydney (Australia),8948.3,7877.6,8704,6299,0,11947.5,16994.9
+Silicon Valley (America),11143.98,9887.8,11029,13581.7,11947.5,0,8627.4
+London (United Kingdom),8137.3,9187.1,8284.9,10849.5,16994.9,8627.4,0

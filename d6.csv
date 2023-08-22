@@ -1,0 +1,7 @@
+The Actual Specification,The Lower of Computing Resource (GHz),The Upper of Computing Resource (GHz),The Bandwidth (Gbps),Price (per hour)
+ecs.ebmc6.26xlarge,5.00000,5.00000,32.00000,28.23000
+ecs.g6.large,2.50000,3.20000,3.00000,0.81000
+ecs.g6.xlarge,2.50000,3.20000,5.00000,1.62000
+ecs.g6.2xlarge,2.50000,3.20000,8.00000,3.24000
+ecs.g6.3xlarge,2.50000,3.20000,10.00000,4.86000
+ecs.g6.13xlarge,2.50000,3.20000,12.50000,21.06000
